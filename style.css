@@ -1,0 +1,11 @@
+body{
+    background-color: #fad7e5cb;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5{
+   color: red;
+}
+#two,#three{
+    display:none;
+}
